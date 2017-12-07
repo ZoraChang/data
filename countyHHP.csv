@@ -1,0 +1,117 @@
+county_fips,name,num
+9,Barry,0
+57,Dade,0
+999,Kansas City,0
+109,Lawrence,0
+133,Mississippi,0
+143,New Madrid,0
+155,Pemiscot,0
+169,Pulaski,0
+11,Barton,1
+59,Dallas,1
+67,Douglas,1
+119,McDonald,1
+167,Polk,1
+185,St. Clair,1
+510,St. Louis City,1
+209,Stone,1
+39,Cedar,2
+43,Christian,2
+53,Cooper,2
+69,Dunklin,2
+85,Hickory,2
+141,Morgan,2
+149,Oregon,2
+197,Schuyler,2
+199,Scotland,2
+5,Atchison,3
+41,Chariton,3
+171,Putnam,3
+215,Texas,3
+227,Worth,3
+45,Clark,4
+61,Daviess,4
+75,Gentry,4
+81,Harrison,4
+97,Jasper,4
+127,Marion,4
+137,Monroe,4
+213,Taney,4
+1,Adair,5
+83,Henry,5
+103,Knox,5
+125,Maries,5
+153,Ozark,5
+201,Scott,5
+203,Shannon,5
+211,Sullivan,5
+217,Vernon,5
+229,Wright,5
+13,Bates,6
+25,Caldwell,6
+35,Carter,6
+111,Lewis,6
+135,Moniteau,6
+159,Pettis,6
+195,Saline,6
+205,Shelby,6
+15,Benton,7
+33,Carroll,7
+87,Holt,7
+105,Laclede,7
+131,Miller,7
+17,Bollinger,8
+79,Grundy,8
+89,Howard,8
+91,Howell,8
+115,Linn,8
+121,Macon,8
+181,Ripley,8
+3,Andrew,9
+23,Butler,9
+49,Clinton,9
+129,Mercer,9
+147,Nodaway,9
+21,Buchanan,10
+77,Greene,10
+225,Webster,10
+29,Camden,11
+207,Stoddard,11
+151,Osage,12
+161,Phelps,12
+173,Ralls,12
+177,Ray,12
+65,Dent,13
+175,Randolph,13
+145,Newton,14
+163,Pike,14
+31,Cape Girardeau,15
+47,Clay,15
+63,De Kalb,15
+179,Reynolds,15
+117,Livingston,17
+165,Platte,17
+73,Gasconade,19
+101,Johnson,20
+157,Perry,20
+51,Cole,21
+93,Iron,21
+123,Madison,21
+7,Audrain,22
+113,Lincoln,22
+107,Lafayette,25
+139,Montgomery,25
+55,Crawford,26
+223,Wayne,26
+37,Cass,28
+27,Callaway,30
+186,Ste. Genevieve,35
+189,St. Louis,39
+187,St. Francois,45
+19,Boone,47
+183,St. Charles,49
+95,Jackson,51
+71,Franklin,53
+219,Warren,79
+221,Washington,85
+99,Jefferson,102
